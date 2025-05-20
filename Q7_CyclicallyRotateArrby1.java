@@ -8,12 +8,9 @@ public class Q7_CyclicallyRotateArrby1 {
 
 
         for(int i = arr.length-1 ; i >= 0;i--) {
-            if (i>0) {
                 arr[i] = arr[i-1];
-            } else {
-                arr[0] = lastelem;
-            }
         }
+        arr[0] = lastelem;
         
         System.out.println("One Cyclical rotate array: ");
         for (int i : arr) {
