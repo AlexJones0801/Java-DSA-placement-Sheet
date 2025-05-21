@@ -1,7 +1,5 @@
 // Q6. Find Union and Intersection of two arrays
 
-import java.util.Arrays;
-
 public class Q6_UnionIntersecof2Arr {
 
     // Function to find Union of the two arrays
