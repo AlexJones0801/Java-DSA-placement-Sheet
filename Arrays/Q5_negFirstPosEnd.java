@@ -1,3 +1,4 @@
+package Arrays;
 // Q5. Move all negative numbers to beginning and positive to end
 
 public class Q5_negFirstPosEnd {

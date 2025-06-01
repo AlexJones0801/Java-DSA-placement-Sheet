@@ -1,3 +1,4 @@
+package Arrays;
 // Q1. Find the maximum and minimum element in an array
 
 public class Q1_ArrayMaxMin {

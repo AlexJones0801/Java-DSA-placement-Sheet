@@ -1,3 +1,4 @@
+package Arrays;
 // Q7. Cyclically rotate an array by one
 
 public class Q7_CyclicallyRotateArrby1 {

@@ -1,3 +1,4 @@
+package Arrays;
 // Q8. Kadane's Algorithm - Maximum Subarray Sum
 
 public class Q8_MaximumSubArrSum {

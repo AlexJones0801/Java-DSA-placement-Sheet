@@ -1,3 +1,4 @@
+package Arrays;
 // Q6. Find Union and Intersection of two arrays
 
 public class Q6_UnionIntersecof2Arr {

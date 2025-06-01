@@ -1,3 +1,4 @@
+package Arrays;
 // 16. Find duplicate number in array
 
 import java.util.HashSet;

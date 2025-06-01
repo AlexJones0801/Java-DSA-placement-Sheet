@@ -1,3 +1,4 @@
+package Arrays;
 // 13. Find all pairs with a given sum
 
 import java.util.HashSet;

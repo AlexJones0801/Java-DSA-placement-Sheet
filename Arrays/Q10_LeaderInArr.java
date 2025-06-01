@@ -1,3 +1,4 @@
+package Arrays;
 // Q10. Leaders in an array
 
 public class Q10_LeaderInArr {

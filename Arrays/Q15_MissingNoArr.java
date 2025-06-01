@@ -1,3 +1,4 @@
+package Arrays;
 // 15. Missing number in array [1 to n]
 
 public class Q15_MissingNoArr {

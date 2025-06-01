@@ -1,3 +1,4 @@
+package Arrays;
 // 12. Count the number of occurrences of an element
 
 public class Q12_CountNoOfOccOfAnElem {

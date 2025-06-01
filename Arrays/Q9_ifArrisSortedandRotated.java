@@ -1,3 +1,4 @@
+package Arrays;
 // Q9. Check if array is sorted and rotated
 
 import java.util.Scanner;

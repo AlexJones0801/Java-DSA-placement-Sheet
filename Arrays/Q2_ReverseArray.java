@@ -1,3 +1,4 @@
+package Arrays;
 // Q2. Reverse an array in place
 
 public class Q2_ReverseArray {

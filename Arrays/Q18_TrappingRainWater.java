@@ -1,3 +1,4 @@
+package Arrays;
 // 18. Trapping Rain Water
 
 public class Q18_TrappingRainWater {
